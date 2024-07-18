@@ -1,0 +1,4 @@
+repository "Roll Sky@minakami_yuuki@cloud.cn"
+  path "/"
+    smartbranch "/main"  
+     
